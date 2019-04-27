@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Museo Cyrl 100';
+	font-display: auto;//<---------------------------------------------------------------------------------------
+	src: rl('../fonts/MuseoCyrl-100.woff') format('woff'),
+		url('../fonts/MuseoCyrl-100.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
